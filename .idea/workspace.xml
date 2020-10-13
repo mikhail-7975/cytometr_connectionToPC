@@ -71,25 +71,62 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="179" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602484872319" />
-    <state width="1364" height="195" key="GridCell.Tab.0.bottom" timestamp="1602485615681">
+    <state width="1515" height="241" key="GridCell.Tab.0.bottom" timestamp="1602596308111">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1364" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602485615681" />
-    <state width="1364" height="195" key="GridCell.Tab.0.center" timestamp="1602485615681">
+    <state width="1515" height="241" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602596308111" />
+    <state width="1515" height="241" key="GridCell.Tab.0.center" timestamp="1602596308111">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1364" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602485615681" />
-    <state width="1364" height="195" key="GridCell.Tab.0.left" timestamp="1602485615681">
+    <state width="1515" height="241" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602596308111" />
+    <state width="1515" height="241" key="GridCell.Tab.0.left" timestamp="1602596308111">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1364" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602485615681" />
-    <state width="1364" height="195" key="GridCell.Tab.0.right" timestamp="1602485615681">
+    <state width="1515" height="241" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602596308111" />
+    <state width="1515" height="241" key="GridCell.Tab.0.right" timestamp="1602596308111">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1364" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602485615681" />
-    <state x="303" y="60" key="SettingsEditor" timestamp="1602485283339">
+    <state width="1515" height="241" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602596308111" />
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1602592527000">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="303" y="60" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602485283339" />
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602592527000" />
+    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1602592527000">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1602592527000" />
+    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1602592527000">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1602592527000" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1602592527000">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1602592527000" />
+    <state x="303" y="60" key="SettingsEditor" timestamp="1602591853896">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="303" y="60" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602591853896" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/auto_COMport_detection.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/auto_COMport_detection.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/auto_COMport_detection.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
